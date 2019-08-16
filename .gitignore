@@ -1,0 +1,10 @@
+
+# Ignore file named 'Readme.md'
+Readme.md
+
+# Ignore folder named 'Build/'
+
+
+# Ignore all .zip files
+*.zip
+*.code-workspace
